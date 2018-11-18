@@ -1,4 +1,4 @@
-# React
+# Webpack
 A simple study about Webpack.
 
 Estudo baseado no curso de React+Redux:Fundamentos, da Udemy, ministrado por Cod3r Cursos.
